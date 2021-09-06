@@ -1,4 +1,8 @@
 ## Olá! Eu sou a Thalita
+- 🔭 Estudante de Engenharia de Computação e trabalho com back-end
+- 🌱 Estudando Python
+- 😄 Pronouns: ela/dela
+
  <div>
   <a href="https://github.com/thalita-silva">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thalita-silva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -17,7 +21,4 @@
   <a href="https://www.linkedin.com/in/thalita-esser" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   ![Snake animation](https://github.com/thalita-silva/thalita-silva/blob/output/github-contribution-grid-snake.svg)
 </div>
-- 🔭 Estudante de Engenharia de Computação e trabalho com back-end
-- 🌱 Estudando Python
-- 😄 Pronouns: ela/dela
 
